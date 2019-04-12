@@ -1,0 +1,10 @@
+.re-background {
+    background-color: #000000;
+    color: white;
+}
+.imageContainer {
+    width:1489px;
+    height:900px;
+    background: url("/img/footman.jpeg") no-repeat;
+}
+
